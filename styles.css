@@ -1,6 +1,9 @@
 .pimg1,
 .pimg2,
-.pimg3 {
+.pimg3,
+.pimg4,
+.pimg5,
+.pimg6 {
   position: relative;
   opacity: 0.7;
   background-position: center;
@@ -20,6 +23,21 @@
 }
 
 .pimg3 {
+  background-image: url("https://thumbs.dreamstime.com/b/grape-juice-slices-splashing-336723818.jpg");
+  min-height: 400px;
+}
+
+.pimg4 {
+  background-image: url("https://thumbs.dreamstime.com/b/grape-juice-slices-splashing-336723818.jpg");
+  min-height: 400px;
+}
+
+.pimg5 {
+  background-image: url("https://thumbs.dreamstime.com/b/grape-juice-slices-splashing-336723818.jpg");
+  min-height: 400px;
+}
+
+.pimg6 {
   background-image: url("https://thumbs.dreamstime.com/b/grape-juice-slices-splashing-336723818.jpg");
   min-height: 400px;
 }
